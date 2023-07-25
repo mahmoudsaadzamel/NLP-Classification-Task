@@ -1,5 +1,5 @@
 # Task-3-Classification
-build a machine learning-based classifier and show its performance on the test set (20%).
+build a machine learning-based classifier (LGBMClassifier)r and show its performance on the test set (20%).
 
 Training Process and Model Evaluation
 
